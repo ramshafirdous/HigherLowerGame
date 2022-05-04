@@ -25,7 +25,6 @@ def check_answer(guess, a_followers, b_followers):
         else:
             return False
 
-
 #display art
 print(logo)
 score = 0
